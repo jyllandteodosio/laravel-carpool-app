@@ -1,0 +1,8 @@
+{
+  "editor.defaultFormatter": "shufo.vscode-blade-formatter",
+  "editor.formatOnSave": true,
+"blade.format.enable": true,
+"[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+}
+}
